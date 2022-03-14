@@ -1,4 +1,4 @@
-# Ohjelmistotekniikka, harjoitustyö :metal:
+# Ohjelmistotekniikka, harjoitustyö :sparkles:
 ## Viikko 1
 
 Tee tiedostoon esim. jokin otsikko, tavallista tekstiä, joka sisältää **lihavoituja** 
