@@ -1,7 +1,6 @@
 # Ohjelmistotekniikka, harjoitustyö :sparkles:
 ## Viikko 1
 
-Tee tiedostoon esim. jokin otsikko, tavallista tekstiä, joka sisältää **lihavoituja** 
-ja *kursivoituja* osuuksia
+[komentorivi.txt](https://github.com/inetar2/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
 
