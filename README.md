@@ -1,6 +1,5 @@
-# Isoin otsikko
-## iso otsikko
-###### pieni otsikko
+# Ohjelmistotekniikka, harjoitustyö
+## Viikko 1
 
 Tee tiedostoon esim. jokin otsikko, tavallista tekstiä, joka sisältää **lihavoituja** 
 ja *kursivoituja* osuuksia
