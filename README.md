@@ -1,4 +1,3 @@
-:EMOJICODE:
 # Ohjelmistotekniikka, harjoitustyö:+1:
 ## Viikko 1
 
