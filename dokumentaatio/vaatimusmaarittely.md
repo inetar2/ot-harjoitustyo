@@ -4,7 +4,7 @@ Pelin tarkoituksena on täyttää ruudukko niin, että jokaisella pysty- ja vaak
 ## Käyttäjät
 Vain yksi normaalikäyttäjä
 ## Käyttöliittymäluonnos
-![Uploading IMG_9584.jpg…]()
+![käyttöliittymäluonnos](file:///home/itarma/Downloads/IMG_9584.jpg)
 ## Toiminnallisuus
 ### Ennen kirjautumista
 Käyttäjä voi luoda käyttäjätunnuksen tai kirjautua jo olemassa olevilla tunnuksilla.
