@@ -4,8 +4,10 @@ Pelin tarkoituksena on täyttää ruudukko niin, että jokaisella pysty- ja vaak
 ## Käyttäjät
 Vain yksi normaalikäyttäjä
 ## Käyttöliittymäluonnos
-
+![Uploading IMG_9584.jpg…]()
 ## Toiminnallisuus
 ### Ennen kirjautumista
-- m
+Käyttäjä voi luoda käyttäjätunnuksen tai kirjautua jo olemassa olevilla tunnuksilla.
+### Kirjautumisen jälkeen
+Käyttäjä voi pelata sudokua tai kirjautua ulos. Lisäksi käyttäjä voi aloittaa uuden pelin vaikka vanha olisi kesken.
 
