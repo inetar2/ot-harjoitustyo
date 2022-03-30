@@ -9,4 +9,6 @@
 
 [tuntikirjanpito](https://github.com/inetar2/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
 
+[vaativuusmäärittely](https://github.com/inetar2/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
 
